@@ -61,3 +61,6 @@ x86_64
 #bytecode
 *.pyc
 *.pyo
+
+#pycharm
+.idea

@@ -1,0 +1,1 @@
+from rest-endpoints import app as application
